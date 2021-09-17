@@ -1,0 +1,18 @@
+pip3 install -i https://mirrors.aliyun.com/pypi/simple numpy==1.18
+pip3 install -i https://mirrors.aliyun.com/pypi/simple h5py==2.8
+pip3 install -i https://mirrors.aliyun.com/pypi/simple scipy==1.1
+pip3 install -i https://mirrors.aliyun.com/pypi/simple tensorflow-gpu==1.4
+pip3 install -i https://mirrors.aliyun.com/pypi/simple matplotlib==3.0.0
+pip3 install -i https://mirrors.aliyun.com/pypi/simple Pillow==7.0
+pip3 install -i https://mirrors.aliyun.com/pypi/simple scikit-image==0.14.3
+pip3 install -i https://mirrors.aliyun.com/pypi/simple Keras==2.2.2
+
+
+pip install -i https://mirrors.aliyun.com/pypi/simple numpy==1.18
+pip install -i https://mirrors.aliyun.com/pypi/simple h5py==2.8
+pip install -i https://mirrors.aliyun.com/pypi/simple scipy==1.1
+pip install -i https://mirrors.aliyun.com/pypi/simple tensorflow-gpu==1.4
+pip install -i https://mirrors.aliyun.com/pypi/simple matplotlib==3.0.0
+pip install -i https://mirrors.aliyun.com/pypi/simple Pillow==7.0
+pip install -i https://mirrors.aliyun.com/pypi/simple scikit-image==0.14.3
+pip install -i https://mirrors.aliyun.com/pypi/simple Keras==2.2.2

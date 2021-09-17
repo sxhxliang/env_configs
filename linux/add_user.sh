@@ -1,0 +1,1 @@
+ sudo adduser ubuntu --force-badname

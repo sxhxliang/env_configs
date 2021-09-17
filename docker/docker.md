@@ -1,0 +1,4 @@
+
+加载本地模型
+
+cat tensorrt-20-06-py3.tar | docker import - nvcr.io/nvidia/tensorrt:20.06-py3

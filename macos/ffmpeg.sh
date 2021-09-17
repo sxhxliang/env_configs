@@ -1,0 +1,3 @@
+ffmpeg -ss 00:00:00 -i '/Volumes/Dataset/Road traffic video for object recognition.mp4' -c copy -t 00:10:00 sample_Output-part1.mp4 #Start～01:17:55
+ffmpeg -ss 00:10:01 -i '/Volumes/Dataset/Road traffic video for object recognition.mp4' -c copy -t 00:20:00 sample_Output-part2.mp4 #01:17:55～02:06:50
+ffmpeg -ss 00:20:01 -i '/Volumes/Dataset/Road traffic video for object recognition.mp4' -c copy -t 00:34:09 sample_Output-part3.mp4 #02:06:50～End
